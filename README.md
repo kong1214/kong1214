@@ -3,7 +3,7 @@
 
 I am a software developer looking to contribute to a vision that will leave an impact on those around me and in my community.
 
-Here are some of the things I've done so far:
+Here are some of the humble things I've done so far:
 
 [metam (Asana Clone) 📜](https://github.com/kong1214/metam-project)   
 [AirAnA (Airbnb Clone) 🏡](https://github.com/kong1214/airbnb-clone)   

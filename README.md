@@ -5,7 +5,9 @@ I am a software developer looking to contribute to a vision that will leave an i
 
 Here are some of the things I've done so far:
 
-> [AirAnA (Airbnb Clone)](https://github.com/kong1214/airbnb-clone)
+[metam (Asana Clone) 📜](https://github.com/kong1214/metam-project)   
+[AirAnA (Airbnb Clone) 🏡](https://github.com/kong1214/airbnb-clone)   
+[RiftPay (Splitwise Clone) 💸](https://github.com/eco-richard/RiftPay)  
 
 <!--
 **kong1214/kong1214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

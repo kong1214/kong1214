@@ -17,7 +17,7 @@ I am a software developer looking to contribute to a vision that will leave an i
 Here are some of the humble things I've done so far:
 
 [Metam (Asana Clone) 📜](https://metam.onrender.com) [Metam's Github](https://github.com/kong1214/metam-project)  
-[RiftPay (Splitwise Clone) 💸](https://riftpay-b5g6.onrender.com) [Riftpay's Github](https://github.com/eco-richard/RiftPay) 
+[RiftPay (Splitwise Clone) 💸](https://riftpay-b5g6.onrender.com) [Riftpay's Github](https://github.com/eco-richard/RiftPay)  
 [AirAnA (Airbnb Clone) 🏡](https://airbnb-clone-hugz.onrender.com) [Airana's Github](https://github.com/kong1214/airbnb-clone)  
 
   

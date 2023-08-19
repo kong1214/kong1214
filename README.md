@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/kevin-ong-357b16215/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a hef="https://angel.co/u/kevin-ong-6">
+  <a href="https://angel.co/u/kevin-ong-6">
     <img src="https://img.shields.io/badge/wellfound-orange?style=for-the-badge" alt="wellfound Badge"/>
 </div>
 

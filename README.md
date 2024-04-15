@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/wellfound-orange?style=for-the-badge" alt="wellfound Badge"/>
 </div>
 
-### Hello! My name is Kevin, but if we're in a group and there's another Kevin, you can call me Kong. 😃
+### Hello! My name is Kevin, but some call me Kong. 😃
 ---
 
 I am a software developer looking to contribute to a vision that will leave an impact on those around me and in my community.

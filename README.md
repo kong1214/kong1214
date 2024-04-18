@@ -42,11 +42,13 @@ Here's some of the things I use:
 </div>
 <br>
 
-### :fire: My Stats :
-
 <div align="center">
+  
+### :fire: My Stats :
   [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kong1214&langs_count=5&theme=tokyonight)]()
 </div>
+
+
   <!--[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kong1214&count_private=true&theme=tokyonight&showicons=true)]()-->
 
 <!--
